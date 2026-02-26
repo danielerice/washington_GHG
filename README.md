@@ -1,0 +1,1 @@
+https://data.wa.gov/api/views/idhm-59de/rows.csv?accessType=DOWNLOAD
